@@ -4,7 +4,7 @@ package pack;
  * 
  * Ernest Curioso
  * Sandra Dheming Lemus
- * Priya Malavia
+ * Priya Malavia;
  *  
  * Comp 598EA: Embedded Applications
  * Section #15400
