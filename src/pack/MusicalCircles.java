@@ -39,7 +39,6 @@ public class MusicalCircles {
 		//initialize the motor
 		EV3LargeRegulatedMotor right = new EV3LargeRegulatedMotor(MotorPort.A);
 		EV3LargeRegulatedMotor left = new EV3LargeRegulatedMotor(MotorPort.B);
-		EV3MediumRegulatedMotor tail = new EV3MediumRegulatedMotor(MotorPort.C);
 
 		touchRed.fetchSample(sampleRed,0); // Fetches touch mode (1 is pressed, 0 is not pressed).
 	
